@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%o\n" $WATER + $STIR
+echo 'expr $WATER + $STIR' > bestchol
